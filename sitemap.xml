@@ -8,16 +8,16 @@
     <loc>https://example.com/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.com/p/test-chinese/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://example.com/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/test/</loc>
+    <loc>https://example.com/categories/test-test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/%ED%95%9C%EA%B5%AD%EC%96%B4/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/archives/</loc>
@@ -63,6 +63,9 @@
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/tags/tag-with-whitespaces/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/categories/test-with-whitespaces/</loc>
